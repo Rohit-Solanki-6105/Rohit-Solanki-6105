@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit-Solanki-6105
+# 👋 Hi, I’m @Rohit-Solanki-6105
 -  I’m interested in: 
    - &nbsp; Computer Science and Engineering 
    - &nbsp; Automobile Engineering
@@ -6,6 +6,7 @@
    - &nbsp; Aerospace engineering 
      <br>
      
+#
 -  I’m currently learning:
    - &nbsp; Computer Science
    - &nbsp; Full Stack Development
