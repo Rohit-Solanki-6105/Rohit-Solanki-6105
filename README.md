@@ -9,6 +9,8 @@
 -  I’m currently learning:
    - &nbsp; Computer Science
    - &nbsp; Full Stack Development
+   - &nbsp; Software Development and Engineering
+   - &nbsp; Android/Ios Application Development
 
 
 <!---
