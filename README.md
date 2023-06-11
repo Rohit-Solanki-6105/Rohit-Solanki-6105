@@ -13,7 +13,6 @@
    - &nbsp; Automobile Engineering
    - &nbsp; Aircraft Designing and Engineering 
    - &nbsp; Aerospace engineering 
-     <br>
      
 #
 -  I’m currently learning:
