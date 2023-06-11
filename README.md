@@ -1,4 +1,13 @@
 # 👋 Hi, I’m @Rohit-Solanki-6105
+
+- I have learned:
+   - &nbsp; Ethical Hacking
+   - &nbsp; Digital Forensic
+   - &nbsp; Cyber Security
+   - &nbsp; Cloud Computing
+
+#
+
 -  I’m interested in: 
    - &nbsp; Computer Science and Engineering 
    - &nbsp; Automobile Engineering
