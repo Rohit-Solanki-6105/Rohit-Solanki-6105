@@ -1,8 +1,8 @@
-# 👋 Hi, I’m `@Rohit-Solanki-6105`
+# 👋 Hi, I’m Jannat
 
 - I have learned:
    - &nbsp; Ethical Hacking
-   - &nbsp; Digital Forensic
+   - &nbsp; Digital Forensic 
    - &nbsp; Cyber Security
    - &nbsp; Cloud Computing
 
