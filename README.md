@@ -8,13 +8,6 @@
    - &nbsp; Cyber Security
    - &nbsp; Cloud Computing
 
-#
-
--  I’m interested in: 
-   - &nbsp; Computer Science and Engineering 
-   - &nbsp; Automobile Engineering
-   - &nbsp; Aircraft Designing and Engineering 
-   - &nbsp; Aerospace engineering 
      
 #
 -  I’m currently learning:
