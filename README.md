@@ -1,8 +1,7 @@
 # 👋 Hi, I’m `@Rohit-Solanki-6105`
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Rohit Solanki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Solanki-6105&show_icons=true&theme=holi&hide=prs&show=reposiratories) <!-- holi theme, hide prs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Solanki-6105&hide_progress=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+![Rohit Solanki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Solanki-6105&show_icons=true&show=reposiratories) <!-- holi theme, hide prs -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Solanki-6105&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - I have learned:
    - &nbsp; Ethical Hacking
