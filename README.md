@@ -1,5 +1,8 @@
 # 👋 Hi, I’m `@Rohit-Solanki-6105`
 
+![Rohit Solanki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Solanki-6105&show_icons=true&theme=holi&hide=prs&show=fork) <!-- holi theme, hide prs -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Solanki-6105&hide_progress=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
 - I have learned:
    - &nbsp; Ethical Hacking
    - &nbsp; Digital Forensic
