@@ -1,6 +1,6 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Solanki-6105&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Solanki-6105&hide_border=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Solanki-6105&show_icons=true&hide_border=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Solanki-6105&hide_border=true&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 
