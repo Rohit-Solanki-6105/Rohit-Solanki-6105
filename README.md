@@ -4,8 +4,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit-Solanki-6105&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit-Solanki-6105&layout=compact&langs_count=8&card_width=320&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit-Solanki-6105&langs_count=8&card_width=320&hide_border=true&hide_progress=true" />
 </a>
+
+# 
 
 - I have learned:
    - &nbsp; Ethical Hacking
