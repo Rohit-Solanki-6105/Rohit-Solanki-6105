@@ -2,7 +2,7 @@
 
 <!-- typing svg -->
 <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=35&pause=700&center=true&width=500&lines=I'm+Rohit+Solanki" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=35&pause=700&center=true&width=500&lines=Welcome+to+my+Profile" alt="Typing SVG" />
 </a>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
