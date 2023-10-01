@@ -10,7 +10,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit-Solanki-6105&show_icons=true&hide_border=true&theme=transparent">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Solanki-6105&hide_border=true&hide_progress=true&theme=transparent">
-<img align="center" height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit-Solanki-6105&theme=transparent&show_icons=true&bg_color=0111111"> 
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit-Solanki-6105&theme=transparent&show_icons=true&bg_color=0111111"> 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Rohit-Solanki-6105&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
 <!-- <img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg"> -->
 </p>
