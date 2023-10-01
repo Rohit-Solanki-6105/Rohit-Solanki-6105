@@ -1,3 +1,6 @@
+<img src="./snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rohit-Solanki-6105/Rohit-Solanki-6105/output/github-contribution-grid-snake-dark.svg">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74bcbe,100:1f4d6f&height=300&section=header&text=Rohit%20Solanki&fontSize=90&fontColor=132f49" />
 
 <!-- typing svg -->
