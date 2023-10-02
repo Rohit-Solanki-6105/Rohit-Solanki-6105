@@ -2,7 +2,7 @@
 
 <!-- typing svg -->
 <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=35&pause=700&center=true&width=500&lines=Welcome+to+my+Profile" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=30&pause=700&center=true&width=500&lines=Welcome+to+my+Profile" alt="Typing SVG" />
 </a>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -43,4 +43,3 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src="https://komarev.com/ghpvc/?username=Rohit-Solanki-6105&label=PROFILE+VIEWS&style=flat-square">
 
-###### Watch my profile in dark mode for better profile look
