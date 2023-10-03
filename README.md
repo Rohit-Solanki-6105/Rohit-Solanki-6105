@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74bcbe,100:1f4d6f&height=300&section=header&text=Rohit%20Solanki&fontSize=90&fontColor=132f49" />
-
+hi
 <!-- typing svg -->
 <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=30&pause=700&center=true&width=500&lines=Welcome+to+my+Profile" alt="Typing SVG" />
