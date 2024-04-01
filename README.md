@@ -13,6 +13,11 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit-Solanki-6105&theme=transparent&show_icons=true&bg_color=0111111"> 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Solanki-6105&theme=github-dark&bg_color=transparent&point=515177&hide_border=true">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Rohit-Solanki-6105&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+
+# 
+   
+## Leetcode
+<img src="https://leetcode.card.workers.dev/Rohit-Solanki-6105?theme=auto&font=baloo&extension=activity">
 <!-- <img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg"> -->
 </p>
 
