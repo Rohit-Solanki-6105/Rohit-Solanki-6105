@@ -16,10 +16,6 @@
 
 
 # 
-   
-## Leetcode
-
-![Leetcode](https://leetcode.card.workers.dev/Rohit-Solanki-6105?theme=auto&font=baloo&extension=activity)
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Rohit-Solanki-6105/Rohit-Solanki-6105/output/github-contribution-grid-snake-dark.svg)
