@@ -20,22 +20,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Rohit-Solanki-6105/Rohit-Solanki-6105/output/github-contribution-grid-snake-dark.svg)
 
-# 
-
-- I have learned:
-   - &nbsp; Ethical Hacking
-   - &nbsp; Digital Forensic
-   - &nbsp; Cyber Security
-   - &nbsp; Cloud Computing
-
-     
-#
--  I’m currently learning:
-   - &nbsp; Computer Science
-   - &nbsp; Full Stack Development
-   - &nbsp; Software Development and Engineering
-   - &nbsp; Android/Ios Application Development
-
 
 
 ![Views Counter](https://komarev.com/ghpvc/?username=Rohit-Solanki-6105&label=PROFILE+VIEWS&style=flat-square)
